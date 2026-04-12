@@ -15,7 +15,6 @@ int main () {
 
     for(int i=1; i <= w; i++) {
         total += k * i;
-
     }
     
     if((total - n) <= 0 ) {

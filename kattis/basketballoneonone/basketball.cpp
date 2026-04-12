@@ -7,7 +7,5 @@ int main(){
     cout << "Score da partida: "
     cin >> x;
 
-    
-
     return 0;
 }
